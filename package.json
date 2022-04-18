@@ -10,6 +10,7 @@
     "start": "cross-env NODE_ENV=production netlify dev"
   },
   "dependencies": {
+    "@lexical/code": "^0.2.1",
     "@lexical/react": "^0.2.1",
     "@netlify/functions": "^0.10.0",
     "@nextui-org/react": "^1.0.8-beta.5",
